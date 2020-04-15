@@ -1,0 +1,15 @@
+body {
+  background-color: : white;
+  animation: mymove 5s;
+}
+
+@keyframes mymove {
+  100% {background-color: gray;}
+}
+
+.circle{
+  background: black;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+}
